@@ -28,7 +28,8 @@ For the graphical user interface, [Dear ImGui](https://github.com/ocornut/imgui)
 ## Preview
 ![ver1 0](https://user-images.githubusercontent.com/60923302/111743121-9043cb00-88cc-11eb-82d6-4ae34674bc62.png)
 
-Youtube [Video ver.](https://youtu.be/HNKLdebsa9c)
+Youtube
+[![제목 없음](https://user-images.githubusercontent.com/60923302/142027631-dcc4ced8-dc59-4837-9f97-b4ce09e971ba.png)](https://youtu.be/HNKLdebsa9c)
 
 ### License
 MIT License
